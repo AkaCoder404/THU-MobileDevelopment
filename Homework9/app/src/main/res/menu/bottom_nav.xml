@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bottom_home"
+        android:title="首页"
+        android:icon="@drawable/baseline_home_24"/>
+    <item android:id="@+id/bottom_topics"
+        android:title="话题"
+        android:icon="@drawable/baseline_local_fire_department_24"/>
+    <item android:id="@+id/bottom_create"
+        android:title="创造"
+        android:icon="@drawable/baseline_add_box_24"/>
+    <item android:id="@+id/bottom_guide"
+        android:title="导卖"
+        android:icon="@drawable/baseline_sell_24"/>
+    <item android:id="@+id/bottom_mine"
+        android:title="我的"
+        android:icon="@drawable/baseline_person_24"/>
+</menu>
